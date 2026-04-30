@@ -1,0 +1,15 @@
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\bin\Debug\net10.0\Application_login.deps.json
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\bin\Debug\net10.0\Application_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\bin\Debug\net10.0\Application_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\bin\Debug\net10.0\Domian_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\bin\Debug\net10.0\Domian_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.csproj.AssemblyReference.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.AssemblyInfoInputs.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.AssemblyInfo.cs
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Applicat.6E593DA9.Up2Date
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\refint\Application_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\Application_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Application_login\obj\Debug\net10.0\ref\Application_login.dll

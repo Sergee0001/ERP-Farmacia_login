@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0B54F5-E648-BCF8-14CD-BCC9D4EF436A}|Web_login\\Web_login.csproj|c:\\users\\sergio\\source\\repos\\inventario_fullstack\\inventario_fullstack\\erp_farmacia_login\\web_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0B54F5-E648-BCF8-14CD-BCC9D4EF436A}|Web_login\\Web_login.csproj|solutionrelative:web_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644D90F9-F630-DFBC-B2B5-BF546041468D}|Application_login\\Application_login.csproj|c:\\users\\sergio\\source\\repos\\inventario_fullstack\\inventario_fullstack\\erp_farmacia_login\\application_login\\usecases\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644D90F9-F630-DFBC-B2B5-BF546041468D}|Application_login\\Application_login.csproj|solutionrelative:application_login\\usecases\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644D90F9-F630-DFBC-B2B5-BF546041468D}|Application_login\\Application_login.csproj|c:\\users\\sergio\\source\\repos\\inventario_fullstack\\inventario_fullstack\\erp_farmacia_login\\application_login\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644D90F9-F630-DFBC-B2B5-BF546041468D}|Application_login\\Application_login.csproj|solutionrelative:application_login\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0B54F5-E648-BCF8-14CD-BCC9D4EF436A}|Web_login\\Web_login.csproj|c:\\users\\sergio\\source\\repos\\inventario_fullstack\\inventario_fullstack\\erp_farmacia_login\\web_login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0B54F5-E648-BCF8-14CD-BCC9D4EF436A}|Web_login\\Web_login.csproj|solutionrelative:web_login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0B54F5-E648-BCF8-14CD-BCC9D4EF436A}|Web_login\\Web_login.csproj|c:\\users\\sergio\\source\\repos\\inventario_fullstack\\inventario_fullstack\\erp_farmacia_login\\web_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC0B54F5-E648-BCF8-14CD-BCC9D4EF436A}|Web_login\\Web_login.csproj|solutionrelative:web_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B293B5F9-F063-3936-6825-4E6B8623C422}|Domian_login\\Domian_login.csproj|c:\\users\\sergio\\source\\repos\\inventario_fullstack\\inventario_fullstack\\erp_farmacia_login\\domian_login\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B293B5F9-F063-3936-6825-4E6B8623C422}|Domian_login\\Domian_login.csproj|solutionrelative:domian_login\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Application_login\\UseCases\\LoginUsuario.cs",
+              "RelativeDocumentMoniker": "Application_login\\UseCases\\LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Application_login\\UseCases\\LoginUsuario.cs",
+              "RelativeToolTip": "Application_login\\UseCases\\LoginUsuario.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:16:52.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Application_login\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Application_login\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Application_login\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "Application_login\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:16:16.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Web_login\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_login\\appsettings.json",
+              "ToolTip": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Web_login\\appsettings.json",
+              "RelativeToolTip": "Web_login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T06:04:32.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Web_login\\Program.cs",
+              "RelativeDocumentMoniker": "Web_login\\Program.cs",
+              "ToolTip": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Web_login\\Program.cs",
+              "RelativeToolTip": "Web_login\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:04:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Web_login\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web_login\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Web_login\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web_login\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:03:54.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Domian_login\\entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domian_login\\entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\SERGIO\\source\\repos\\Inventario_FULLSTACK\\Inventario_FULLSTACK\\ERP_Farmacia_Login\\Domian_login\\entities\\Usuario.cs",
+              "RelativeToolTip": "Domian_login\\entities\\Usuario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:00:59.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

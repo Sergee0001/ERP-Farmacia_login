@@ -1,0 +1,17 @@
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Infraestructure_login.deps.json
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Infraestructure_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Infraestructure_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Application_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Domian_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Application_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\bin\Debug\net10.0\Domian_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.csproj.AssemblyReference.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.AssemblyInfoInputs.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.AssemblyInfo.cs
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraest.C71A54AA.Up2Date
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\refint\Infraestructure_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\Infraestructure_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Infraestructure_login\obj\Debug\net10.0\ref\Infraestructure_login.dll

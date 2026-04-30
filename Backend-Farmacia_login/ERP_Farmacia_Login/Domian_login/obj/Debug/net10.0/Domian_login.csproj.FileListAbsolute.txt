@@ -1,0 +1,11 @@
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\bin\Debug\net10.0\Domian_login.deps.json
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\bin\Debug\net10.0\Domian_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\bin\Debug\net10.0\Domian_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\Domian_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\Domian_login.AssemblyInfoInputs.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\Domian_login.AssemblyInfo.cs
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\Domian_login.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\Domian_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\refint\Domian_login.dll
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\Domian_login.pdb
+C:\Users\SERGIO\source\repos\Inventario_FULLSTACK\Inventario_FULLSTACK\ERP_Farmacia_Login\Domian_login\obj\Debug\net10.0\ref\Domian_login.dll
